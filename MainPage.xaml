@@ -41,7 +41,7 @@
                 <RowDefinition Height="1*"/>
             </Grid.RowDefinitions>
 
-            <TextBlock Grid.Row="0" Text="Введите имя файла или папки и нажмите кнопку &quot;Отправить&quot;" />
+            <TextBlock Grid.Row="0" Text="Введите имя файла или папки и нажмите кнопку &quot;Открыть&quot;" />
             <Grid Grid.Row="1">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="7*"/>
